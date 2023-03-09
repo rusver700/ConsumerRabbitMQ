@@ -1,0 +1,2 @@
+# ConsumerRabbitMQ
+ Console
